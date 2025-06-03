@@ -13,7 +13,7 @@ After completing this project, you will:
     -Gain experience using Express with the GET verb, routes, and query parameters
     -Gain experience loading a "public" file and using as a web page
     
-Overview
+# Overview
 
 For this project, you will be creating the "Ultimate Coin Tool" web application with two basic capabilities:
 
