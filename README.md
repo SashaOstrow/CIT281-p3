@@ -1,17 +1,17 @@
+# Project 3
 After completing this project, you will:
 
-    Gain experience interpreting functional descriptions and specifications to complete an assignment
-    Gain experience using modular programming by breaking a project into manageable components
-    Gain experience writing and executing non-web server Node.js (Node) JavaScript code using VSCode
-    Practice creating and using code modules
-    Practice refactoring using modern JavaScript syntax
-    Practice using JSON
-    Practice using git
-    Create and use a standard Node .gitignore file
-    Gain experience writing and executing web server Node JavaScript code using VSCode
-    Gain experience using Express with the GET verb, routes, and query parameters
-    Gain experience loading a "public" file and using as a web page
-    Optional: Use Postman to test your REST API
+    -Gain experience interpreting functional descriptions and specifications to complete an assignment
+    -Gain experience using modular programming by breaking a project into manageable components
+    -Gain experience writing and executing non-web server Node.js (Node) JavaScript code using VSCode
+    -Practice creating and using code modules
+    -Practice refactoring using modern JavaScript syntax
+    -Practice using JSON
+    -Practice using git
+    -Create and use a standard Node .gitignore file
+    -Gain experience writing and executing web server Node JavaScript code using VSCode
+    -Gain experience using Express with the GET verb, routes, and query parameters
+    -Gain experience loading a "public" file and using as a web page
     
 Overview
 
